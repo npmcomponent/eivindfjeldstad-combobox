@@ -1,12 +1,12 @@
-var Emitter = require('emitter')
-  , domify = require('domify')
-  , classes = require('classes')
-  , query = require('query')
-  , events = require('event')
-  , indexOf = require('indexof')
-  , keyname = require('keyname')
-  , scrolltop = require('scrolltop')
-  , bind = require('bind');
+var Emitter = require('component-emitter')
+  , domify = require('component-domify')
+  , classes = require('component-classes')
+  , query = require('component-query')
+  , events = require('component-event')
+  , indexOf = require('component-indexof')
+  , keyname = require('component-keyname')
+  , scrolltop = require('yields-scrolltop')
+  , bind = require('component-bind');
   
 /**
  * Select constructor

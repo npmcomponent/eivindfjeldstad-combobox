@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [eivindfjeldstad/combobox](http://github.com/eivindfjeldstad/combobox). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/eivindfjeldstad-combobox`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # combobox
 A lightweight selectbox replacement. Built entirely with components, no jQuery or other frameworks. Comes with search functionality, keyboard navigation and other cool stuff.
 

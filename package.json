@@ -1,0 +1,25 @@
+{
+  "name": "eivindfjeldstad-combobox",
+  "description": "Lightweight select box replacemet",
+  "version": "0.3.1",
+  "keywords": [
+    "select",
+    "combobox",
+    "option"
+  ],
+  "styles": [
+    "combobox.css"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "component-query": "git://github.com/npmcomponent/component-query.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "component-indexof": "git://github.com/npmcomponent/component-indexof.git",
+    "yields-scrolltop": "git://github.com/npmcomponent/yields-scrolltop.git",
+    "component-keyname": "git://github.com/npmcomponent/component-keyname.git",
+    "component-bind": "git://github.com/npmcomponent/component-bind.git"
+  },
+  "license": "MIT"
+}
